@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello, I am Chat Bot, How can I assist you?"
+    },
+    {
+      "question": "Hey Chat Bot",
+      "answer": "How can I help?"
+    },
+    {
+      "question": "I am having issues with my fiber.",
+      "answer": "Please explain what issues you are experiencing."
+    },
+    {
+      "question": "Hey",
+      "answer": "Hello, I am Chat Bot, How can I assist you?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello, I am Chat Bot, How can I assist you?"
+    },
+    {
+      "question": "Help me",
+      "answer": "Please explain what issues you are experiencing."
+    },
+    {
+      "question": "Firestick is not working",
+      "answer": "1) Let's try to unplug and then re-plug the device. 2) OR throw it away"
+    },
+    {
+      "question": "What does KUB Fiber installation look like and how long does it take?",
+      "answer": "\u2022 A technician will come out 2-4 days before your installation appointment to complete the prep work of connecting the fiber from the pole to the box outside of your house. It is not required that you are home for this however, if they must enter a gate to reach the box, they will knock on your door to inform you.\u2022 Your in-home installation appointment window is scheduled for 4 hours but may not take the entire time.\u2022 Someone over the age of 18 must be present for the entire installation.\u2022 Check out our In-Home Installation Process here."
+    },
+    {
+      "question": "internet is down",
+      "answer": "Ok, let's try checking the lights on your ONT. This is the small black box that was installed. 1)Power light - solid green indicates that the power source is good. 2)Fiber light - solid green indicates you are receving an internet connection to your box. The symbol is in the shape of a star. 3)10GE - light should be flashing indicating that the signal is communicating with your router. 4)POTS - if you have a phone service this will indicate the connection to your phone, green being a stable connection."
+    }
+  ]
+}
